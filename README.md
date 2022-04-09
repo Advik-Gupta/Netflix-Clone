@@ -1,4 +1,4 @@
-A Netflix Clone I made using ReactJS, ReduxJS and Firebase. The app features full user authentication functionality and also uses React Router for routing.
+A Netflix Clone I made using ReactJS and Firebase.
 
 Deployed App => https://netflix-clone-8c1f3.web.app/ (not responsive, i.e., open only on a computer)
 
